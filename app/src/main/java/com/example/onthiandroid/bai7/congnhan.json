@@ -1,0 +1,25 @@
+{
+  "CongNhan": [
+    {
+      "id": "123",
+      "ten": "phan anh tuấn",
+      "luong": 21424,
+      "gioitinh": "nam",
+      "chucvu": "trưởng phòng"
+    },
+    {
+      "id": "456",
+      "ten": "mai thị mai",
+      "luong": 54364,
+      "gioitinh": "nam",
+      "chucvu": "giám đốc"
+    },
+    {
+      "id": "789",
+      "ten": "đinh tiên hoàng",
+      "luong": 23646,
+      "gioitinh": "nam",
+      "chucvu": "phó giám đốc"
+    }
+  ]
+}

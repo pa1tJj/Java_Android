@@ -1,0 +1,25 @@
+{
+  "listU": [
+    {
+      "id": "123",
+      "name": "phan anh tuấn",
+      "email": "pat@gmail.com",
+      "gender": "nam",
+      "mobile": "02856439"
+    },
+    {
+      "id": "345",
+      "name": "Mai Thị Mai",
+      "email": "mtm@gmail.com",
+      "gender": "nữ",
+      "mobile": "03258435"
+    },
+    {
+      "id": "789",
+      "name": "Đinh Tiên Hoàng",
+      "email": "dth@gmail.com",
+      "gender": "nam",
+      "mobile": "099999999"
+    }
+  ]
+}

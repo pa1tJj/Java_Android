@@ -1,0 +1,19 @@
+{
+  "listSV": [
+    {
+      "maso": "pat01",
+      "hoten": "phan anh tuấn",
+      "tuoi": 22
+    },
+    {
+      "maso": "pat02",
+      "hoten": "mai thị mai",
+      "tuoi": 20
+    },
+    {
+      "maso": "pat03",
+      "hoten": "đinh tiên hoàng",
+      "tuoi": 18
+    }
+  ]
+}

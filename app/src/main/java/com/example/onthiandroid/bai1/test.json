@@ -1,0 +1,14 @@
+{
+  "listSV": [
+    {
+      "getTen()": "Phan Anh Tuấn",
+      "getGioiTinh()": "Nam",
+      "getNamSinh()": "2000"
+    },
+    {
+      "getTen()": "Mai Thị Mai",
+      "getGioiTinh()": "Nữ",
+      "getNamSinh()": "2004"
+    }
+  ]
+}
